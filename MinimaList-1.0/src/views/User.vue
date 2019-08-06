@@ -25,6 +25,28 @@ export default {
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
+$main-color: #42b983;
+.user{
+  text-align: center;
+  font-size: 18px;
+  .name{
+    padding: 10px;
+  }
+}
+.ctrls{
+  text-align: center;
+  padding-top: 40px;
+}
 
+.add{
+  display: block;
+  width: 90%;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 6px;
+  background: $main-color;
+  margin: 0 auto;
+  color: #fff;
+}
 </style>

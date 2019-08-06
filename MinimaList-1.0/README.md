@@ -1,4 +1,4 @@
-# Vue项目1：极简待办 MinimaList1.0
+# Vue项目1：极简待办 MinimaList1.1
 
 ## Project setup
 ```
