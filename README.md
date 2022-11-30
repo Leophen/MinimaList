@@ -1,5 +1,4 @@
-# MinimaList
-极简待办项目
+# MinimaList 极简待办项目
 
 ```
 版本历史：
